@@ -39,7 +39,7 @@
 <p align="left"><img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind" /></p>
 
 **Backend & Databases**
-<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,restapi,graphql,postgres,mongodb,redis" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,postgres,mongodb,redis" /></p>
 
 **Tools & Infra**
 <p align="left"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" /></p>

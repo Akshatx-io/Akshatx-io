@@ -71,7 +71,11 @@
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Akshatx-io&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  <img height="165em" src="https://streak-stats.demolab.com?user=Akshatx-io&theme=tokyonight&hide_border=true" alt="streak" />
+  <img
+  height="165em"
+  src="https://streak-stats.demolab.com?user=Akshatx-io&theme=tokyonight&hide_border=true&cache_seconds=3600"
+  alt="streak"
+/>
 </p>
 
 <p align="center">
